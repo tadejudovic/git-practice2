@@ -1,0 +1,3 @@
+name: tadej
+email: gmail@gmail.com
+program:ironhack
